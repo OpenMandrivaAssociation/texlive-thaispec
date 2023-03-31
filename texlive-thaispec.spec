@@ -1,6 +1,6 @@
 Name:		texlive-thaispec
 Version:	58019
-Release:	1
+Release:	2
 Summary:	Thai Language Typesetting in XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thaispec
