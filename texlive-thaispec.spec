@@ -3,7 +3,7 @@ Version:	58019
 Release:	2
 Summary:	Thai Language Typesetting in XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thaispec
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thaispec
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thaispec.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thaispec.doc.r%{version}.tar.xz
